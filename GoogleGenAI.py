@@ -27,3 +27,4 @@ outputs = [output['output'] for output in completion.candidates]
 for output in outputs:
     print(output)
     print('-'*50)
+
